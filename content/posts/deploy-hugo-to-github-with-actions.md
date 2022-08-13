@@ -10,5 +10,5 @@
 - `git add . && git commit -m "update" && git push`
 - Actions: build -> deploy
 
-> Almost do nothings to deploy the hugo blog.
+> Almost do nothings to deploy the hugo blog?
 > Thanks to peaceiris.
