@@ -4,6 +4,10 @@
     <title>Categories on BitouFun</title>
     <link>https://bitoufun.github.io/categories/</link>
     <description>Recent content in Categories on BitouFun</description>
+    <image>
+      <url>https://bitoufun.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://bitoufun.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://bitoufun.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
